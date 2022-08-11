@@ -15,8 +15,11 @@ n(n+1)/2 = O(n^2)
 
 
 **Time Complexity:**
+
 1)Average case: Aradığımız sayının ortada olmasıdır.
+
 2)Worst case: Aradığımız sayının sonda olmasıdır.
+
 3)Best case: Aradığımız sayının dizinin en başında olmasıdır.
 
 Dizi sıralandıktan sonra 18 sayısı average case kapsaına girer.
